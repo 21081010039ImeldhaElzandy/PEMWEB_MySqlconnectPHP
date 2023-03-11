@@ -9,7 +9,7 @@
     <title>Employee</title>
 </head>
 <body>
-    <h2 style="margin: 30px 0 30px 0;">TABLE EMPLOYEES</h2>
+    <h2>TABLE EMPLOYEES</h2>
         <div>
             <table border=1px>
                 <thead bgcolor=silver>
